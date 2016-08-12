@@ -8,7 +8,7 @@ class TestPOC(POCBase):
     vulID='1571'
     version='1.0'
     author='404notfound'
-    vulDate='2016-7-30'
+    vulDate='2016-7-31'
     createDate='2016-7-30'
     updateDate='2016-7-30'
     references=['https://www.seebug.org/vuldb/ssvid-92157']
